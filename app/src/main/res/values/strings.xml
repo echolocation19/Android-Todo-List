@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">List App</string>
+    <string name="enterNote">Enter a new note</string>
+    <string name="titleEditText">Enter Title</string>
+    <string name="descriptionEditText">Enter Description</string>
+    <string name="saveButton">Save</string>
+    <string name="settings">Settings</string>
+    <string name="titleTextView">Title</string>
+    <string name="descriptionTextView">Description</string>
+    <string name="dateAdded">date</string>
+    <string name="confirmationTextView">Are you sure?</string>
+    <string name="no_button">No</string>
+    <string name="yes_button">Yes</string>
+    <string name="addItem">Add item</string>
+
+    <string name="pref_color_red">Red</string>
+    <string name="pref_color_yellow">Yellow</string>
+    <string name="pref_color_blue">Blue</string>
+    <string name="pref_color_purple">Purple</string>
+    <string name="pref_value_red">red</string>
+    <string name="pref_value_yellow">yellow</string>
+    <string name="pref_value_blue">blue</string>
+    <string name="pref_value_purple">purple</string>
+
+    <string name="background_color_title">Background Color</string>
+    <string name="user_background_color_key">background_color</string>
+</resources>
